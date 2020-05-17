@@ -1,1 +1,17 @@
 
+{
+  "image_slider": [
+    {
+      "title": "Daily Prayer session",
+      "url": "https://raw.githubusercontent.com/WebDeveloper-ygt/bems_public/master/IMG-20190905-WA0085.jpg"
+    },
+    {
+      "title": "Visit to Dharwad Regional Science Center",
+      "url": "https://raw.githubusercontent.com/WebDeveloper-ygt/bems_public/master/IMG-20191124-WA0025.jpg"
+    },
+    {
+      "title": "New School Buildings",
+      "url": "https://raw.githubusercontent.com/WebDeveloper-ygt/bems_public/master/IMG_03101.jpg"
+    }
+  ]
+}

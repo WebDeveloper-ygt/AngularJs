@@ -27,15 +27,15 @@
   "content": [
     {
       "title": "Mission",
-      "description": " To make world better place "
+      "description": [" To make world better place "]
     },
     {
       "title": "History",
-      "description" : "School started in the year of 2015"
+      "description" : ["School started in the year of 2015"]
     },
     {
       "title" : "Aim",
-      "description" : "We are on top of our priorities, We always aim at the students development"
+      "description" : ["We are on top of our priorities, We always aim at the students development"]
     }
    ],
   "youtube_videos" : [ "https://www.youtube.com/embed/HLG3vzD0cuY", "https://www.youtube.com/embed/bQ_3kpMuCj8"]

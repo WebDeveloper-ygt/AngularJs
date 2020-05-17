@@ -13,5 +13,15 @@
       "title": "New School Buildings",
       "url": "https://raw.githubusercontent.com/WebDeveloper-ygt/bems_public/master/IMG_03101.jpg"
     }
+  ],
+  "notices": [
+    {
+      "title": "Covid19 Classes suspended",
+      "description": "All the classes are suspended due to Corona pandemic, untill then please stay home stay safe"
+    },
+    {
+      "title": "Admissions are opened",
+      "description": "Adminssions to the all standards are opened, feel free to contact us or visit school"
+    }
   ]
 }

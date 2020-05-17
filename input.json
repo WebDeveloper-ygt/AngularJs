@@ -27,15 +27,15 @@
   "content": [
     {
       "title": "Mission",
-      "description": "<mat-icon>arrow_right_alt</mat-icon> To make world better place <br>"
+      "description": " To make world better place "
     },
     {
       "title": "History",
-      "description" : "<mat-icon>arrow_right_alt</mat-icon>School started in the year of 2015 <br>"
+      "description" : "School started in the year of 2015"
     },
     {
       "title" : "Aim",
-      "description" : "<mat-icon>arrow_right_alt</mat-icon>We are on top of our priorities, We always aim at the students development <br>"
+      "description" : "We are on top of our priorities, We always aim at the students development"
     }
    ]
 }

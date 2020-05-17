@@ -27,7 +27,15 @@
   "content": [
     {
       "title": "Mission",
-      "Description": "To make world better place"
+      "description": "To make world better place"
+    },
+    {
+      "title": "History",
+      "description" : "School started in the year of 2015"
+    },
+    {
+      "title" : "Aim",
+      "description" : "We are on top of our priorities, We always aim at the students development"
     }
    ]
 }

@@ -23,5 +23,11 @@
       "title": "Admissions are opened",
       "description": "Adminssions to the all standards are opened, feel free to contact us or visit school"
     }
-  ]
+  ],
+  "content": [
+    {
+      "title": "Mission",
+      "Description": "To make world better place"
+    }
+   ]
 }

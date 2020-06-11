@@ -56,5 +56,49 @@
   "youtube_videos": [
     "https://www.youtube.com/embed/HLG3vzD0cuY",
     "https://www.youtube.com/embed/bQ_3kpMuCj8"
+  ],
+  "subjectWiseLessons": [
+    {
+      "Kannada": [
+        {
+          "Title": "First Lesson",
+          "Description": "Basics of Kannada",
+          "link": "https://www.youtube.com/embed/8SlTvP7NVI0"
+        },
+        {
+          "Title": "Second Lesson",
+          "Description": "Intermediatary of Kannada",
+          "link": "https://www.youtube.com/embed/8SlTvP7NVI0"
+        },
+        {
+          "Title": "Third Lesson",
+          "Description": "Expertise of Kannada",
+          "link": "https://www.youtube.com/embed/8SlTvP7NVI0"
+        }
+      ],
+      "English": [
+        {
+          "Title": "First Lesson",
+          "Description": "Basics of Kannada",
+          "link": "https://www.youtube.com/embed/8SlTvP7NVI0"
+        },
+        {
+          "Title": "Second Lesson",
+          "Description": "Intermediatary of Kannada",
+          "link": "https://www.youtube.com/embed/8SlTvP7NVI0"
+        },
+        {
+          "Title": "Third Lesson",
+          "Description": "Expertise of Kannada",
+          "link": "https://www.youtube.com/embed/8SlTvP7NVI0"
+        }
+      ]
+    }
+  ],
+  "subjects": [
+    "Kannada",
+    "English",
+    "Maths",
+    "Science"
   ]
 }
